@@ -5763,3 +5763,9 @@ button[name="shortcut"] span {
 #torrents .linkbox {
     clear: both;
 }
+
+// ADD BY ENORME75
+
+span.vote_album.brackets {
+    font-size: 0.9rem;
+}
