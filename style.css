@@ -5769,3 +5769,8 @@ button[name="shortcut"] span {
 .group_info .vote_album {
     font-size: 0.9rem!important;
 }
+
+.noty_message span, .noty_buttons a {
+    color: white;
+    font-size: 0.90rem;
+}
