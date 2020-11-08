@@ -5774,3 +5774,8 @@ button[name="shortcut"] span {
     color: white;
     font-size: 0.90rem;
 }
+
+#noty_bottomRight_layout_container {
+    background-color: black;
+    padding: 10px!important;
+}
