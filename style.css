@@ -5763,3 +5763,7 @@ button[name="shortcut"] span {
 #torrents .linkbox {
     clear: both;
 }
+
+.alertbar > a {
+   pointer-events:painted;
+}
