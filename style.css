@@ -5765,5 +5765,5 @@ button[name="shortcut"] span {
 }
 
 .alertbar > a {
-   pointer-events:painted;
+   pointer-events:painted!important;
 }
