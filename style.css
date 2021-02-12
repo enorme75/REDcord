@@ -5767,3 +5767,7 @@ button[name="shortcut"] span {
 .alertbar > a {
    pointer-events:painted!important;
 }
+
+li#stats_ratio {
+    display: block!important;
+}
