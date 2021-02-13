@@ -5768,6 +5768,6 @@ button[name="shortcut"] span {
    pointer-events:painted!important;
 }
 
-li#stats_ratio {
+li#stats_ratio.hidden {
     display: block!important;
 }
