@@ -5771,3 +5771,34 @@ button[name="shortcut"] span {
 li#stats_ratio.hidden {
     display: block!important;
 }
+
+#torrents_live_album:before {
+    background: #78c4de;
+    content: 'LIVE ALBUM';
+}
+
+#torrents_remix:before {
+    background: #78c4de;
+    content: 'REMIX';
+}
+
+#torrents_bootleg:before {
+    background: #78c4de;
+    content: 'BOOTLEG';
+}
+
+#torrents_demo:before {
+    background: #78c4de;
+    content: 'DEMO';
+}
+
+#torrents_concert_recording:before {
+    background: #78c4de;
+    content: 'CONCERT RECORDING';
+}
+
+
+#torrents_composition:before {
+    background: #78c4de;
+    content: 'COMPOSITIONS';
+}
