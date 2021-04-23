@@ -2625,7 +2625,7 @@ a[href="#torrents_album"] {
     padding: 0.5rem;
 }
 
-#torrents_dj_mix:before, #torrents_produced_by:before, #torrents_single:before, #torrents_album:before, #torrents_anthology:before, #torrents_ep:before, #torrents_compilation:before, #torrents_soundtrack:before, #torrents_guest_appearance:before, #torrents_remixed_by:before, #torrents #requests:before, #artist #requests:before {
+#torrents_composition:before, #torrents_concert_recording:before, #torrents_demo:before, #torrents_bootleg:before, #torrents_remix:before, #torrents_live_album:before, #torrents_dj_mix:before, #torrents_produced_by:before, #torrents_single:before, #torrents_album:before, #torrents_anthology:before, #torrents_ep:before, #torrents_compilation:before, #torrents_soundtrack:before, #torrents_guest_appearance:before, #torrents_remixed_by:before, #torrents #requests:before, #artist #requests:before {
     background: #78c4de;
     display: block;
     content: 'ALBUMS';
