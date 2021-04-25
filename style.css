@@ -5802,3 +5802,7 @@ li#stats_ratio.hidden {
     background: #78c4de;
     content: 'COMPOSITIONS';
 }
+
+.vote_album {
+   display:block!important;
+}
